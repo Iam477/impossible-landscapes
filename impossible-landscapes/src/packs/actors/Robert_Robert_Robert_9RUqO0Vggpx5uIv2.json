@@ -1,0 +1,389 @@
+{
+  "_id": "9RUqO0Vggpx5uIv2",
+  "name": "Robert Robert Robert",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_robert_robert_robert.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 14,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 15,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 16,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 13,
+      "min": 0,
+      "max": 13
+    },
+    "wp": {
+      "value": 10,
+      "min": 0,
+      "max": 10
+    },
+    "sanity": {
+      "value": 0,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 40,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 30,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 30,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 30,
+        "failure": false
+      },
+      "drive": {
+        "value": 30,
+        "failure": false
+      },
+      "firearms": {
+        "value": 40,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 70,
+        "failure": false
+      },
+      "humint": {
+        "value": 70,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 30,
+        "failure": false
+      },
+      "navigate": {
+        "value": 10,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 80,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 30,
+        "failure": false
+      },
+      "search": {
+        "value": 20,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 30,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 40,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "History",
+        "value": 30,
+        "failure": false,
+        "group": "art"
+      },
+      "craft1": {
+        "name": "Craft",
+        "subtype": "Mechanics",
+        "value": 20,
+        "failure": false,
+        "group": "craft"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Arabic",
+        "value": 65,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage2": {
+        "name": "Foreign Language",
+        "subtype": "Berber",
+        "value": 45,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage3": {
+        "name": "Foreign Language",
+        "subtype": "English",
+        "value": 70,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage4": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 20,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage5": {
+        "name": "Foreign Language",
+        "subtype": "Tartessian",
+        "value": 15,
+        "failure": false,
+        "group": "foreignLanguage"
+      }
+    },
+    "biography": {
+      "profession": "Bookshop Proprietor / Repeater",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Aliases:</strong> B.R. Robert, Bob (he invites people to call him this), bibliopola</p>\n<p><strong>Role:</strong> Bookshop Proprietor / Repeater</p>\n<p><strong>Nature:</strong> unnatural</p>\n<p><strong>Location:</strong> loc_bookshop</p>\n<hr/>\n<h2>Player Description</h2>\n<p>A tall, well-dressed North African man materializes from between the bookshelves and introduces himself as B.R. Robert, with a smile like a puzzle-box and a business card \u2014 vellum, hand-pressed, no address. He insists you call him Bob. You find yourself telling him things you had no intention of sharing. His teeth are impossibly white. His eyes are faintly yellow.</p>\n<hr/>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>The Bookshop&#x27;s proprietor is a key recurring character who appears in potentially all four operations (confirmed in Part 1 and referenced in later Exeunt sections). He sells copies of The King in Yellow in all its forms. He spreads rumors for &#x27;Mister Wilde&#x27; (a significant named entity in Part 2 who pulls strings behind the scenes). His ledgers contain only Jabberwocky in Arabic repeated for 1000+ pages, entries dated from &#x27;30 Ao\u00fbt 1895&#x27; onward; he claims an eidetic memory and dismisses the ledgers as &#x27;a game.&#x27; The earliest entry: &#x27;30 Ao\u00fbt 1895, Londres aujourd&#x27;hui&#x27; (&#x27;August 30, 1895, London today&#x27;). He always locks the strongbox before leaving the desk. The LITTLE DOOR sidebar: a red wooden door sized for a small child, 0.6m x 0.3m, visible behind a large stack of books, with letter slot. It connects to the Red Door in Dr. Elias Barbas&#x27;s bedroom closet. Sometimes without warning the letter slot opens and a copy of the Red Book drops through, accompanied by a man chanting on the far side: &#x27;There was a red man / in a red house / who had a red room / with a red door / he took a red book / and put it right through / and then the book / wasn&#x27;t there anymore.&#x27; Opening the door to see the speaker: the door beyond the bars shuts and Agents gain +1 Corruption. STUCK: reads, sells books, sometimes wanders the Night World through bookshop passages. ENDLESS DOORS: access to Missing Room and Night Floors of Macallistar; would not bring anyone to Carcosa willingly. WHERE&#x27;S MY BOTTLE?: convinced it will be revealed to him in time. Motivations: To sell copies of The King in Yellow. To spread rumors for Mister Wilde. To wait for his &#x27;revelation.&#x27;</p>\n<h3>Relationships</h3>\n<ul>\n<li><strong>Former Customer:</strong> npc_abigail_wright \u2014 His ledger records her visit on 22 FEB 1995. He recalls her from &#x27;the news.&#x27; He does not list the book she purchased in the ledger entry.</li>\n<li><strong>Night World Acquaintance:</strong> npc_asa_daribondi \u2014 Daribondi left his copy of Libro Secretorum Manifesta at the Bookshop in June 1921, hoping to release himself from his dark obsessions. Robert was there.</li>\n</ul>\n</section>",
+      "physicalDescription": "A tall, well-dressed North African man materializes from between the bookshelves and introduces himself as B.R. Robert, with a smile like a puzzle-box and a business card \u2014 vellum, hand-pressed, no address. He insists you call him Bob. You find yourself telling him things you had no intention of sharing. His teeth are impossibly white. His eyes are faintly yellow."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Robert Robert Robert",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_robert_robert_robert.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "KHYB3N4zuj0Xc1dy",
+      "name": "Browning FN Model 1903 pistol",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/pistol.svg",
+      "system": {
+        "skill": "firearms",
+        "damage": "1D10",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "15m",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "wv2cr9nJtoVISQY9",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_robert_robert_robert",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "tags": [
+        "bookshop",
+        "repeater",
+        "night_world",
+        "immortal",
+        "soul_bottle",
+        "unnatural",
+        "the_play",
+        "recurring",
+        "king_in_yellow"
+      ]
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1712700000000,
+    "modifiedTime": 1712700000000,
+    "lastModifiedBy": "ILModuleGenerator"
+  }
+}

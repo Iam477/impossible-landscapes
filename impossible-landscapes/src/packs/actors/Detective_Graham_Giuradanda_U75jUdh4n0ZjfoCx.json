@@ -1,0 +1,349 @@
+{
+  "_id": "U75jUdh4n0ZjfoCx",
+  "name": "Detective Graham Giuradanda",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_graham_giuradanda.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 14,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 17,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 10,
+      "min": 0,
+      "max": 10
+    },
+    "wp": {
+      "value": 14,
+      "min": 0,
+      "max": 14
+    },
+    "sanity": {
+      "value": 70,
+      "max": 99,
+      "currentBreakingPoint": 56,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 60,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 20,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 40,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 70,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 50,
+        "failure": false
+      },
+      "drive": {
+        "value": 50,
+        "failure": false
+      },
+      "firearms": {
+        "value": 60,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 30,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 50,
+        "failure": false
+      },
+      "law": {
+        "value": 30,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 50,
+        "failure": false
+      },
+      "navigate": {
+        "value": 40,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 60,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 75,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 30,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 80,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Italian",
+        "value": 20,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "militaryScience1": {
+        "name": "Military Science",
+        "subtype": "Land",
+        "value": 20,
+        "failure": false,
+        "group": "militaryScience"
+      }
+    },
+    "biography": {
+      "profession": "NYPD Detective / Investigation Liaison",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> NYPD Detective / Investigation Liaison</p>\n<p><strong>Nature:</strong> mundane</p>\n<p><strong>Location:</strong> loc_macallistar_building</p>\n<hr/>\n<h2>Player Description</h2>\n<p>Detective Giuradanda is a tall, thin, classically handsome man with an easy, warm manner that immediately puts people at ease. He shakes hands firmly and seems genuinely grateful to have federal assistance. He&#x27;s clearly disturbed by what he saw in Wright&#x27;s apartment but is keeping it together professionally.</p>\n<hr/>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Giuradanda provides the Agents with his card and leaves after checking they have everything they need. He is cooperative but stays out of their way. He can be an ongoing liaison \u2014 he has access to NYPD resources and local networks. He is not in the Delta Green loop and has no knowledge of the unnatural. If the Agents need NYPD cover or local law enforcement support, Giuradanda is the correct contact. His three Bonds: great-grandmother Annamarie Giuradanda (17), priest Father Thomas &#x27;Tommy&#x27; Rann (17), brother Jerry Giuradanda (17). Motivations: To make pension. To protect the innocent. Catholicism. &#x27;Passing Strange&#x27;: born 23 OCT 1951, the same day Delta Green operative Emmet Moseby&#x27;s disappearance was officially reported.</p>\n<h3>Relationships</h3>\n<ul>\n<li><strong>Active Investigator:</strong> npc_abigail_wright \u2014 Assigned to the Wright case on 5 JUN 1995. Interviewed all residents by day. The case is on the back burner as of 22 JUN 1995 due to lack of leads.</li>\n</ul>\n</section>",
+      "physicalDescription": "Detective Giuradanda is a tall, thin, classically handsome man with an easy, warm manner that immediately puts people at ease. He shakes hands firmly and seems genuinely grateful to have federal assistance. He's clearly disturbed by what he saw in Wright's apartment but is keeping it together professionally."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Detective Graham Giuradanda",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_graham_giuradanda.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "vBcUpY3Ak8Jk4gxh",
+      "name": "Sig-Sauer P226 pistol",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/pistol.svg",
+      "system": {
+        "skill": "firearms",
+        "damage": "1D10",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "15m",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 60,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "AmlFaQkBuQ9Dw0oE",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 80,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_graham_giuradanda",
+      "nature": "mundane",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "nypd",
+        "police",
+        "replacement_character",
+        "mundane",
+        "investigation_liaison",
+        "catholic"
+      ]
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1712700000000,
+    "modifiedTime": 1712700000000,
+    "lastModifiedBy": "ILModuleGenerator"
+  }
+}

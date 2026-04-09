@@ -1,0 +1,380 @@
+{
+  "_id": "5CBIAyOo9ROntJ9r",
+  "name": "Henri de Calvados Castaigne",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_henri_castaigne.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 7,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 7,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 8,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 15,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 9,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 7,
+      "min": 0,
+      "max": 7
+    },
+    "wp": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "sanity": {
+      "value": 0,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 20,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 10,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 30,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 60,
+        "failure": false
+      },
+      "humint": {
+        "value": 40,
+        "failure": false
+      },
+      "law": {
+        "value": 15,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 25,
+        "failure": false
+      },
+      "navigate": {
+        "value": 10,
+        "failure": false
+      },
+      "occult": {
+        "value": 60,
+        "failure": false
+      },
+      "persuade": {
+        "value": 40,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 20,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 10,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 40,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 11,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "History",
+        "value": 35,
+        "failure": false,
+        "group": "art"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "English",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage2": {
+        "name": "Foreign Language",
+        "subtype": "French",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage3": {
+        "name": "Foreign Language",
+        "subtype": "German",
+        "value": 15,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage4": {
+        "name": "Foreign Language",
+        "subtype": "Italian",
+        "value": 40,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage5": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage6": {
+        "name": "Foreign Language",
+        "subtype": "Tartessian",
+        "value": 70,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "science1": {
+        "name": "Science",
+        "subtype": "Astronomy",
+        "value": 30,
+        "failure": false,
+        "group": "science"
+      },
+      "science2": {
+        "name": "Science",
+        "subtype": "Chemistry",
+        "value": 10,
+        "failure": false,
+        "group": "science"
+      }
+    },
+    "biography": {
+      "profession": "Night Manager / Repeater / Pretender to the Crown",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Aliases:</strong> Night Manager (of the Macallistar Building / Hotel Broadalbin), Mr. Castaigne (used by tenants), J.C. (Thomas Manuel&#x27;s childhood name for him)</p>\n<p><strong>Role:</strong> Night Manager / Repeater / Pretender to the Crown</p>\n<p><strong>Nature:</strong> unnatural</p>\n<p><strong>Location:</strong> loc_castaigne_apartment</p>\n<hr/>\n<h2>Player Description</h2>\n<p>An old man in clothes that look Victorian answers the door \u2014 impossibly old-fashioned, right down to his slippers. He has white unkempt hair and walks with a bad limp. He introduces himself as the building&#x27;s night manager, a Mister Castaigne. His English is excellent but faintly accented. He has a kind smile that somehow feels like it was assembled by committee.</p>\n<hr/>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>STUCK: repeats patterns (considers the Imperial Dynasty, drinks, wanders the Night Floors performing small chores). ENDLESS DOORS: can always find exits via hidden passages, secret doors, or new doors; others may follow gaining +1 Corruption. INFINITE: human-fragile but returns unharmed after being killed or injured; still recalls who harmed him. WHERE&#x27;S MY BOTTLE?: obsessed with his Soul Bottle in the Whisper Labyrinth; his frailty and fear of rivals prevents him from undertaking the expedition. His locked bedroom contains The Imperial Dynasty of America, a bundle of ragged worn handwritten pages tracking a complex lineage \u2014 Castaigne&#x27;s own name is inside. If discovered, he explodes into murderous frenzy crying &#x27;No! No! The crown is mine! Mine!&#x27; Once restrained he only pouts and mumbles in an unknown language. His old newspapers/magazines (none newer than 1940) include headlines pointing to Carcosa&#x27;s nature: e.g., &#x27;Russo-Germanic Pact Crumbles, Vienna Liberated&#x27; (New York Tribune, 1 JUL 1923). The sheer volume and apparent age of these papers cost 0/1 SAN from the unnatural. EXEUNT note: The 1947 family photo in basement storage shows Lundine family with a large mastiff captioned &#x27;Family w Abraham, Christmas 47&#x27; \u2014 seeing this costs 0/1 SAN from the unnatural. The Superintendent&#x27;s party occurs every night \u2014 Castaigne says &#x27;the Super lives upstairs and is having a party tonight.&#x27; He can lead 0-SAN Agents to this fatal encounter. Native language Tartessian 70% \u2014 he is the only character who speaks it as a native tongue. Motivations: To become King of America. To enlist aid to destroy cousin Hildred Castaigne. To kill all other pretenders to the throne. To locate his Soul Bottle.</p>\n<h3>Sanity Effects</h3>\n<p><strong>Trigger:</strong> Discovering The Imperial Dynasty of America in Castaigne&#x27;s locked bedroom</p>\n<p><strong>SAN Loss:</strong> 0/0</p>\n<p>No direct SAN loss from reading the document, but Castaigne&#x27;s murderous rage response to discovery is the threat. Seeing one&#x27;s own name in his lineage rolls costs 0/1 SAN from the unnatural and grants +1 Corruption.</p>\n<h3>Relationships</h3>\n<ul>\n<li><strong>Cousin / Rival:</strong> npc_hildred_castaigne \u2014 Hildred Castaigne is another resident of the Night World. The two have met on occasion. Each bitterly disputes the other&#x27;s claim to the crown of America. Henri considers Hildred a rival pretender to be destroyed.</li>\n<li><strong>Night World Tenant:</strong> npc_thomas_manuel \u2014 Manuel calls him &#x27;Mister Castaigne&#x27; and refers to him as the building&#x27;s night manager. Castaigne lets Manuel work in the basement. Manuel knew him as childhood imaginary friend &#x27;J.C.&#x27;</li>\n<li><strong>Night World Associate:</strong> npc_mark_roark \u2014 Roark knows him as the night manager of Hotel Broadalbin. Describes him as &#x27;a dago.&#x27;</li>\n<li><strong>Ancestor:</strong> npc_gabriel_castaigne \u2014 Gabriel Castaigne (clockmaker, 15th century) appears to be an ancestor; the &#x27;G. CASTAIGNE&#x27; maker&#x27;s mark on the Like Clockwork manifestation&#x27;s automaton pieces, dated FR. 1435, connects to him.</li>\n<li><strong>Ancestor:</strong> npc_augustus_chastaigne \u2014 Augustus Chastaigne (1402-1403) appears to be the earliest known ancestor; A Horse By Degrees is signed &#x27;A. Chastaigne, G. Castaigne, H. Castaigne.&#x27;</li>\n</ul>\n</section>",
+      "physicalDescription": "An old man in clothes that look Victorian answers the door \u2014 impossibly old-fashioned, right down to his slippers. He has white unkempt hair and walks with a bad limp. He introduces himself as the building's night manager, a Mister Castaigne. His English is excellent but faintly accented. He has a kind smile that somehow feels like it was assembled by committee."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Henri de Calvados Castaigne",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_henri_castaigne.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "EGyC5BZH1qTosUUS",
+      "name": "Letter opener",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "melee_weapons",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 25,
+          "armorPiercing": 1
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_henri_castaigne",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "repeater",
+        "night_floors",
+        "night_manager",
+        "king_in_yellow",
+        "carcosa",
+        "tartessian",
+        "immortal",
+        "soul_bottle",
+        "unnatural",
+        "shifting_identity",
+        "recurring"
+      ]
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1712700000000,
+    "modifiedTime": 1712700000000,
+    "lastModifiedBy": "ILModuleGenerator"
+  }
+}
