@@ -4,7 +4,7 @@
   "description": "Complete Handler toolkit for the Delta Green campaign Impossible Landscapes. Includes NPC actors, location journals, clue handouts, encounter guides, and mechanics references for all four parts.",
   "version": "1.0.0",
 
-  "manifest": "https://raw.githubusercontent.com/Iam477/impossible-landscapes/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Iam477/impossible-landscapes/refs/heads/main/module.json",
   "download": "https://github.com/Iam477/impossible-landscapes/releases/download/v1.0.0/impossible-landscapes.zip",
   "url": "https://github.com/Iam477/impossible-landscapes",
   
