@@ -1,0 +1,17 @@
+asset_filename,asset_type,intended_path_in_module,linked_document,description,source_pages
+shared-npc-abigail-wright.webp,portrait/token,assets/npcs/shared,OP1 - NPC - Abigail Wright [GM],Portrait or token art for Abigail Wright.,"IL pp. 66-67, 74, 112"
+op1-npc-thomas-wright.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Thomas Wright [GM],Portrait or token art for Thomas Wright.,"IL pp. 83-84, 119"
+op1-npc-marvin-bloom.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Dr. Marvin Bloom [GM],Portrait or token art for Dr. Marvin Bloom.,"IL pp. 67-69, 114"
+op1-npc-graham-giuradanda.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Graham Giuradanda [GM],Portrait or token art for Graham Giuradanda.,"IL pp. 74, 116-117"
+op1-npc-cynthia-lechance.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Cynthia Lechance [GM],Portrait or token art for Cynthia Lechance.,IL pp. 72-74
+op1-npc-thomas-manuel.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Thomas Manuel [GM],Portrait or token art for Thomas Manuel.,"IL pp. 85-89, 117-118"
+op1-npc-elaine-manuel.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Arthur and Elaine Manuel [GM],Portrait or token art for Elaine Manuel or family witness use.,IL pp. 86-87
+op1-npc-roger-carun.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Roger Carun [GM],Portrait or token art for Roger Carun.,"IL pp. 89-91, 115-116"
+op1-npc-carmen-wagner.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Carmen Wagner [GM],Portrait or token art for Carmen Wagner.,IL pp. 89-91
+op1-npc-michelle-vanfitz.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Michelle Vanfitz [GM],Portrait or token art for Michelle Vanfitz.,"IL pp. 91-95, 118"
+op1-npc-louis-post.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Louis Post [GM],Portrait or token art for Louis Post.,"IL pp. 95-97, 118-119"
+shared-npc-mark-roark.webp,portrait/token,assets/npcs/shared,SHARED - NPC - Mark Roark [GM],Portrait or token art for Mark Roark.,"IL pp. 97-100, 118"
+shared-entity-the-dog.webp,portrait/token,assets/entities/shared,SHARED - Entity - The Dog [GM],Portrait or token art for The Dog / Abraham.,"IL pp. 100-101, 117"
+op1-npc-david-langford.webp,portrait/token,assets/npcs/op1,OP1 - NPC - David Langford [GM],Portrait or token art for David Langford.,"IL pp. 55, 100-101, 113"
+op1-npc-encyclopedia-salesman.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Encyclopedia Salesman [GM],Portrait or token art for the Encyclopedia Salesman.,IL p. 101
+op1-npc-henri-de-calvados-castaigne.webp,portrait/token,assets/npcs/op1,OP1 - NPC - Henri de Calvados Castaigne [GM],Portrait or token art for Henri de Calvados Castaigne.,"IL pp. 102-104, 115"
