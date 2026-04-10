@@ -1,0 +1,41 @@
+{
+  "_id": "aOaWMd3QDV5ewznw",
+  "name": "OP1 - Handout - Lundine Family - Abraham Photograph [Player]",
+  "pages": [
+    {
+      "_id": "RNKj4IBoIuo8WMrS",
+      "name": "OP1 - Handout - Lundine Family - Abraham Photograph [Player]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>OP1 - Handout - Lundine Family - Abraham Photograph [Player]</h1>\n<h2>Player-Facing Text</h2>\n<p>Old family photograph.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>Dog identity / long-term connective clue.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>SHARED - Entity - The Dog [GM]</li>\n<li>OP1 - Location - Macallistar Building [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/op1 type/handout audience/player canon/canon</p>\n<h2>Source Pages</h2>\n<p>IL pp. 100-101, 117</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "OP1 - The Night Floors / 40 - Clues / Handouts",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 100-101, 117",
+      "generatedFrom": "journals/op1/op1-handout-lundine-family-abraham-photograph.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

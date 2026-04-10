@@ -1,0 +1,41 @@
+{
+  "_id": "JpKbnRXNEmsUjBfW",
+  "name": "OP1 - Handout - Roger Carun - Word Processor Message [Player]",
+  "pages": [
+    {
+      "_id": "PGyKilDEArRV4an3",
+      "name": "OP1 - Handout - Roger Carun - Word Processor Message [Player]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>OP1 - Handout - Roger Carun - Word Processor Message [Player]</h1>\n<h2>Player-Facing Text</h2>\n<p>Message recovered from the word processor.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>Night-only condition / password / implications.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - Location - Roger Carun’s Apartment [GM]</li>\n<li>OP1 - NPC - Roger Carun [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/op1 type/handout audience/player canon/canon</p>\n<h2>Source Pages</h2>\n<p>IL pp. 90-91</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "OP1 - The Night Floors / 40 - Clues / Handouts",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 90-91",
+      "generatedFrom": "journals/op1/op1-handout-roger-carun-word-processor-message.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

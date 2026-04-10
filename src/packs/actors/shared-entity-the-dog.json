@@ -1,0 +1,317 @@
+{
+  "_id": "sHggs2HsyX9pHmk4",
+  "name": "SHARED - Entity - The Dog [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_the_dog.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 9,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 6,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 7,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 10,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "wp": {
+      "value": 7,
+      "min": 0,
+      "max": 7
+    },
+    "sanity": {
+      "value": 0,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 80,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 50,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 10,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 30,
+        "failure": false
+      },
+      "navigate": {
+        "value": 10,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 20,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 50,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 10,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 30,
+        "failure": false
+      },
+      "swim": {
+        "value": 30,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 50,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {},
+    "biography": {
+      "profession": "Night World Entity / Affable Mastiff",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Actor</p>\n<p><strong>Aliases:</strong> Abraham</p>\n<h2>Player Description</h2>\n<p>Large grey mastiff, invisible to those not open to the Night Floors.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Affable but uncanny entity tied to the building’s deeper Broadalbin/Lundine history; follows if called by name.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Night Floors</li>\n<li>Macallistar Building</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>Abraham family photo</li>\n<li>Manuel family testimony</li>\n<li>ball-bouncing sounds</li>\n</ul>\n<p><strong>Recurring Status:</strong> SHARED</p>\n<p><strong>Source Pages:</strong> IL pp. 100-101, 117</p>\n</section>",
+      "physicalDescription": "Large grey mastiff, invisible to those not open to the Night Floors."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "The Dog",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_the_dog.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "HPzqp2Cb6njrD56B",
+      "name": "Bite",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D6",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 50,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_the_dog",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "night_floors",
+        "macallistar",
+        "unnatural",
+        "immortal",
+        "soul_bottle",
+        "invisible",
+        "recurring",
+        "king_in_yellow"
+      ],
+      "folderPath": "SHARED / 40 - Entities & Threats / 10 - Recurring Creatures",
+      "classification": "SHARED",
+      "sourcePages": "IL pp. 100-101, 117",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

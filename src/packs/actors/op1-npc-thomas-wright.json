@@ -1,0 +1,369 @@
+{
+  "_id": "l2Oopm3UGwS4zVJ4",
+  "name": "OP1 - NPC - Thomas Wright [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_thomas_wright.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 14,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "wp": {
+      "value": 13,
+      "min": 0,
+      "max": 13
+    },
+    "sanity": {
+      "value": 65,
+      "max": 99,
+      "currentBreakingPoint": 52,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 30,
+        "failure": false
+      },
+      "alertness": {
+        "value": 60,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 40,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 50,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 40,
+        "failure": false
+      },
+      "drive": {
+        "value": 70,
+        "failure": false
+      },
+      "firearms": {
+        "value": 40,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 30,
+        "failure": false
+      },
+      "forensics": {
+        "value": 20,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 30,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 30,
+        "failure": false
+      },
+      "humint": {
+        "value": 70,
+        "failure": false
+      },
+      "law": {
+        "value": 30,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 50,
+        "failure": false
+      },
+      "navigate": {
+        "value": 40,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 40,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 20,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 80,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 20,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 60,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "pilot1": {
+        "name": "Pilot",
+        "subtype": "Small Boats",
+        "value": 20,
+        "failure": false,
+        "group": "pilot"
+      }
+    },
+    "biography": {
+      "profession": "Abigail's Father / Wildcard Complication",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<p><strong>Aliases:</strong> Officer Wright; Thomas Wright</p>\n<h2>Player Description</h2>\n<p>Grieving Nassau County police officer trying to find his daughter.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>If he gets a real whiff of the unnatural, he can become dangerously obsessive and relocate to stalk the building.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Baldwin home</li>\n<li>Macallistar Building</li>\n<li>Ace Hotel</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>Photo of Thomas and Ellen</li>\n<li>Abigail case file</li>\n<li>shrine investigation</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 83-84, 119</p>\n</section>",
+      "physicalDescription": "Grieving Nassau County police officer trying to find his daughter."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Thomas Weston Wright Jr.",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_thomas_wright.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "eKI8phYHVDEGUnNF",
+      "name": "Ruger Police Service Six .38 Special",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/pistol.svg",
+      "system": {
+        "skill": "firearms",
+        "damage": "1D8",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "15m",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "HFiavmwcCZjZjonU",
+      "name": "Baton",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "melee_weapons",
+        "damage": "1D6",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 50,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "HELEjNAMtkx8J1Xf",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 60,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_thomas_wright",
+      "nature": "mundane",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "grieving_father",
+        "replacement_character",
+        "police",
+        "mundane",
+        "complication",
+        "bookshop"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 20 - Wright Case",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 83-84, 119",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

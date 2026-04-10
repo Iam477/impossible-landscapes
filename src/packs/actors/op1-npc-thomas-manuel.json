@@ -1,0 +1,382 @@
+{
+  "_id": "PvRapPUJf4evS2z8",
+  "name": "OP1 - NPC - Thomas Manuel [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_thomas_manuel.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 14,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 12,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "wp": {
+      "value": 14,
+      "min": 0,
+      "max": 14
+    },
+    "sanity": {
+      "value": 5,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 25,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 30,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 50,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 30,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 10,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 40,
+        "failure": false
+      },
+      "navigate": {
+        "value": 30,
+        "failure": false
+      },
+      "occult": {
+        "value": 30,
+        "failure": false
+      },
+      "persuade": {
+        "value": 60,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 40,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 60,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 40,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 50,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 6,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "History",
+        "value": 60,
+        "failure": false,
+        "group": "art"
+      },
+      "art2": {
+        "name": "Art",
+        "subtype": "Painting",
+        "value": 60,
+        "failure": false,
+        "group": "art"
+      },
+      "art3": {
+        "name": "Art",
+        "subtype": "Photography",
+        "value": 30,
+        "failure": false,
+        "group": "art"
+      },
+      "art4": {
+        "name": "Art",
+        "subtype": "Sculpture",
+        "value": 35,
+        "failure": false,
+        "group": "art"
+      },
+      "craft1": {
+        "name": "Craft",
+        "subtype": "Electronics",
+        "value": 40,
+        "failure": false,
+        "group": "craft"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 70,
+        "failure": false,
+        "group": "foreignLanguage"
+      }
+    },
+    "biography": {
+      "profession": "Night Tenant / Infected Artist",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<h2>Player Description</h2>\n<p>Young painter with expensive stereo gear and increasingly strange behavior.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Day/night split is crucial: microphone wire, basement studio, “night manager,” going-away party, obsession with moving upstairs.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Thomas Manuel’s Apartment</li>\n<li>Wright’s hall</li>\n<li>basement studio</li>\n<li>Night Floors</li>\n<li>Smoking Lounge</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>Ambrose locket</li>\n<li>microphone wire</li>\n<li>linseed oil</li>\n<li>“My Great Work”</li>\n<li>going-away party</li>\n<li>Dog</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 85-89, 117-118</p>\n</section>",
+      "physicalDescription": "Young painter with expensive stereo gear and increasingly strange behavior."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Thomas Dominic Manuel",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_thomas_manuel.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "Gv7yjpRMIkaeL4c4",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 50,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "V56uME3n87AHLZKo",
+      "name": "X-Acto knife",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "melee_weapons",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 3
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_thomas_manuel",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "night_tenant",
+        "infected",
+        "macallistar",
+        "king_in_yellow",
+        "night_floors",
+        "dual_nature",
+        "san_risk"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 30 - Macallistar Tenants",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 85-89, 117-118",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

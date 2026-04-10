@@ -1,0 +1,384 @@
+{
+  "_id": "5CBIAyOo9ROntJ9r",
+  "name": "OP1 - NPC - Henri de Calvados Castaigne [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_henri_castaigne.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 7,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 7,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 8,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 15,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 9,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 7,
+      "min": 0,
+      "max": 7
+    },
+    "wp": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "sanity": {
+      "value": 0,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 20,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 10,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 30,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 60,
+        "failure": false
+      },
+      "humint": {
+        "value": 40,
+        "failure": false
+      },
+      "law": {
+        "value": 15,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 25,
+        "failure": false
+      },
+      "navigate": {
+        "value": 10,
+        "failure": false
+      },
+      "occult": {
+        "value": 60,
+        "failure": false
+      },
+      "persuade": {
+        "value": 40,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 20,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 10,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 40,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 11,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "History",
+        "value": 35,
+        "failure": false,
+        "group": "art"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "English",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage2": {
+        "name": "Foreign Language",
+        "subtype": "French",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage3": {
+        "name": "Foreign Language",
+        "subtype": "German",
+        "value": 15,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage4": {
+        "name": "Foreign Language",
+        "subtype": "Italian",
+        "value": 40,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage5": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 60,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "foreignLanguage6": {
+        "name": "Foreign Language",
+        "subtype": "Tartessian",
+        "value": 70,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "science1": {
+        "name": "Science",
+        "subtype": "Astronomy",
+        "value": 30,
+        "failure": false,
+        "group": "science"
+      },
+      "science2": {
+        "name": "Science",
+        "subtype": "Chemistry",
+        "value": 10,
+        "failure": false,
+        "group": "science"
+      }
+    },
+    "biography": {
+      "profession": "Night Manager / Repeater / Pretender to the Crown",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<p><strong>Aliases:</strong> Mr. Castaigne; Henri Castaigne</p>\n<h2>Player Description</h2>\n<p>Tiny white-haired man in antiquated clothes, shuffling through papers and old photos.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Self-styled heir and trapped Night World resident; obsessed with kingship, hidden genealogies, and his Soul Bottle.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Night Floors</li>\n<li>Macallistar Building</li>\n<li>Broadalbin</li>\n<li>Bookshop</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>lineage pages</li>\n<li>crown delusion</li>\n<li>“Superintendent” lead</li>\n<li>cousin reference to Hildred</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 102-104, 115</p>\n</section>",
+      "physicalDescription": "Tiny white-haired man in antiquated clothes, shuffling through papers and old photos."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Henri de Calvados Castaigne",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_henri_castaigne.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "EGyC5BZH1qTosUUS",
+      "name": "Letter opener",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "melee_weapons",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 25,
+          "armorPiercing": 1
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_henri_castaigne",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "repeater",
+        "night_floors",
+        "night_manager",
+        "king_in_yellow",
+        "carcosa",
+        "tartessian",
+        "immortal",
+        "soul_bottle",
+        "unnatural",
+        "shifting_identity",
+        "recurring"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 50 - Night Floors Residents",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 102-104, 115",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

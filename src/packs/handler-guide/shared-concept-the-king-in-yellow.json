@@ -1,0 +1,41 @@
+{
+  "_id": "ioUQIJQYzQ1lXN8y",
+  "name": "SHARED - Concept - The King in Yellow [GM]",
+  "pages": [
+    {
+      "_id": "vkX9riG7tt3BqWVV",
+      "name": "SHARED - Concept - The King in Yellow [GM]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>SHARED - Concept - The King in Yellow [GM]</h1>\n<h2>Player-Facing Text</h2>\n<p>Not finalized in approved scope. Approved player-facing block: none.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>Campaign master concept. Core concept; infection pattern; DG relevance; OP1-specific touchpoints.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - NPC - Abigail Wright [GM]</li>\n<li>SHARED - Concept - The Yellow Sign [GM]</li>\n<li>SHARED - Concept - The Night World [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/shared type/concept audience/gm canon/canon recurring</p>\n<h2>Source Pages</h2>\n<p>IL pp. 24-29, 67</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "SHARED / 10 - Concepts",
+      "classification": "SHARED",
+      "sourcePages": "IL pp. 24-29, 67",
+      "generatedFrom": "journals/shared/shared-concept-the-king-in-yellow.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

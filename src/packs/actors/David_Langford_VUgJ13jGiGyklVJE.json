@@ -1,0 +1,347 @@
+{
+  "_id": "VUgJ13jGiGyklVJE",
+  "name": "David Langford",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_david_langford.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 17,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 14,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 11,
+      "min": 0,
+      "max": 11
+    },
+    "wp": {
+      "value": 11,
+      "min": 0,
+      "max": 11
+    },
+    "sanity": {
+      "value": 51,
+      "max": 99,
+      "currentBreakingPoint": 34,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 40,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 30,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 50,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 30,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 50,
+        "failure": false
+      },
+      "navigate": {
+        "value": 30,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 25,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 20,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 50,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 40,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "craft1": {
+        "name": "Craft",
+        "subtype": "Electrician",
+        "value": 40,
+        "failure": false,
+        "group": "craft"
+      },
+      "craft2": {
+        "name": "Craft",
+        "subtype": "Mechanics",
+        "value": 30,
+        "failure": false,
+        "group": "craft"
+      },
+      "craft3": {
+        "name": "Craft",
+        "subtype": "Microelectronics",
+        "value": 40,
+        "failure": false,
+        "group": "craft"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Japanese",
+        "value": 10,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "science1": {
+        "name": "Science",
+        "subtype": "Mathematics",
+        "value": 40,
+        "failure": false,
+        "group": "science"
+      }
+    },
+    "biography": {
+      "profession": "Trapped Night World Survivor",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Trapped Night World Survivor</p>\n<p><strong>Nature:</strong> mundane</p>\n<p><strong>Location:</strong> loc_night_floors</p>\n<hr/>\n<h2>Player Description</h2>\n<p>A man lurches out of a doorway at you \u2014 he looks like he&#x27;s been living rough for months. His beard has grown to his chest and his hair is matted. He&#x27;s thin in the wrong way. He grabs you and starts talking very fast about &#x27;getting out of the building,&#x27; claiming he&#x27;s been trapped since March. His ID identifies him as a cable installer for Charter Cable.</p>\n<hr/>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Langford is actively searching for an exit and will cooperate fully with anyone who seems capable of escaping. He has no knowledge of the unnatural beyond his lived experience of the Night Floors. He is not hostile; his terrified feral state is self-preservation. He is the only &#x27;innocent&#x27; trapped in the Night Floors \u2014 everyone else chose to be there or was consumed. His &#x27;Passing Strange&#x27; note: born 2 MAR 1953, the same day the Lundine house was officially converted from a private residence to an 11-unit apartment building and renamed the Macallistar Building. The disorder note: upon escape, he would suffer Enclosure-Related Phobia. His brother Ian reported him missing initially thinking he had skipped town to avoid lawsuits from his two ex-wives. ARTLIFE plans to evict all tenants \u2014 this will eventually bring police back to the building, and Langford needs to be out before then.</p>\n<h3>Relationships</h3>\n<ul>\n<li><strong>Brother:</strong> npc_ian_langford \u2014 His brother Ian Langford reported David missing on 2 APR 1995, initially thinking he had skipped town due to pending lawsuits from two ex-wives.</li>\n</ul>\n</section>",
+      "physicalDescription": "A man lurches out of a doorway at you \u2014 he looks like he's been living rough for months. His beard has grown to his chest and his hair is matted. He's thin in the wrong way. He grabs you and starts talking very fast about 'getting out of the building,' claiming he's been trapped since March. His ID identifies him as a cable installer for Charter Cable."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "David Langford",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_david_langford.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "OsPBz6oa02u5JMzR",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_david_langford",
+      "nature": "mundane",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "trapped",
+        "survivor",
+        "night_floors",
+        "replacement_character",
+        "mundane",
+        "rescuable"
+      ]
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1712700000000,
+    "modifiedTime": 1712700000000,
+    "lastModifiedBy": "ILModuleGenerator"
+  }
+}

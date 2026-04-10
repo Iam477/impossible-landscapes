@@ -1,0 +1,353 @@
+{
+  "_id": "U75jUdh4n0ZjfoCx",
+  "name": "OP1 - NPC - Graham Giuradanda [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_graham_giuradanda.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 14,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 17,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 10,
+      "min": 0,
+      "max": 10
+    },
+    "wp": {
+      "value": 14,
+      "min": 0,
+      "max": 14
+    },
+    "sanity": {
+      "value": 70,
+      "max": 99,
+      "currentBreakingPoint": 56,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 60,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 20,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 40,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 0,
+        "failure": false
+      },
+      "criminology": {
+        "value": 70,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 50,
+        "failure": false
+      },
+      "drive": {
+        "value": 50,
+        "failure": false
+      },
+      "firearms": {
+        "value": 60,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 10,
+        "failure": false
+      },
+      "forensics": {
+        "value": 30,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 50,
+        "failure": false
+      },
+      "law": {
+        "value": 30,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 50,
+        "failure": false
+      },
+      "navigate": {
+        "value": 40,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 60,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 75,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 30,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 80,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 0,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Italian",
+        "value": 20,
+        "failure": false,
+        "group": "foreignLanguage"
+      },
+      "militaryScience1": {
+        "name": "Military Science",
+        "subtype": "Land",
+        "value": 20,
+        "failure": false,
+        "group": "militaryScience"
+      }
+    },
+    "biography": {
+      "profession": "NYPD Detective / Investigation Liaison",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<p><strong>Aliases:</strong> Detective Giuradanda</p>\n<h2>Player Description</h2>\n<p>Helpful NYPD detective handling the missing-person case.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Honest, useful, statted, and an excellent replacement-Agent candidate.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Macallistar Building</li>\n<li>NYPD case frame</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>Wright disappearance file</li>\n<li>shrine scene</li>\n<li>police access</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 74, 116-117</p>\n</section>",
+      "physicalDescription": "Helpful NYPD detective handling the missing-person case."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Detective Graham Giuradanda",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_graham_giuradanda.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "vBcUpY3Ak8Jk4gxh",
+      "name": "Sig-Sauer P226 pistol",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/pistol.svg",
+      "system": {
+        "skill": "firearms",
+        "damage": "1D10",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "15m",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 60,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "AmlFaQkBuQ9Dw0oE",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 80,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_graham_giuradanda",
+      "nature": "mundane",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "nypd",
+        "police",
+        "replacement_character",
+        "mundane",
+        "investigation_liaison",
+        "catholic"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 10 - Delta Green & Law",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 74, 116-117",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

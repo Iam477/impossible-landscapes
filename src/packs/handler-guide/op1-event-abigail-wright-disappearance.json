@@ -1,0 +1,41 @@
+{
+  "_id": "wwJduDuWWhv9XImE",
+  "name": "OP1 - Event - Abigail Wright Disappearance [GM]",
+  "pages": [
+    {
+      "_id": "LJnoyjYHYADqiaYx",
+      "name": "OP1 - Event - Abigail Wright Disappearance [GM]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>OP1 - Event - Abigail Wright Disappearance [GM]</h1>\n<h2>Player-Facing Text</h2>\n<p>Case summary the players can know. Missing-person summary, timeline, police/FBI actions, current status.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>What actually happened to Wright.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - NPC - Abigail Wright [GM]</li>\n<li>OP1 - NPC - Thomas Wright [GM]</li>\n<li>OP1 - NPC - Graham Giuradanda [GM]</li>\n<li>OP1 - Location - Macallistar Building [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/op1 type/event audience/gm canon/canon</p>\n<h2>Source Pages</h2>\n<p>IL pp. 66-67, 54-56</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "OP1 - The Night Floors / 10 - Briefing / Framing",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 66-67, 54-56",
+      "generatedFrom": "journals/op1/op1-event-abigail-wright-disappearance.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

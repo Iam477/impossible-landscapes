@@ -1,0 +1,331 @@
+{
+  "_id": "KIW4GeZrQVwkN5Ej",
+  "name": "OP1 - NPC - Roger Carun [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_roger_carun.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 9,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 9,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 10,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 15,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 10,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 9,
+      "min": 0,
+      "max": 9
+    },
+    "wp": {
+      "value": 13,
+      "min": 0,
+      "max": 13
+    },
+    "sanity": {
+      "value": 0,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 20,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 15,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 40,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 30,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 15,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 10,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 30,
+        "failure": false
+      },
+      "navigate": {
+        "value": 20,
+        "failure": false
+      },
+      "occult": {
+        "value": 10,
+        "failure": false
+      },
+      "persuade": {
+        "value": 40,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 0,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 20,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 10,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 40,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 5,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "Writing",
+        "value": 60,
+        "failure": false,
+        "group": "art"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 10,
+        "failure": false,
+        "group": "foreignLanguage"
+      }
+    },
+    "biography": {
+      "profession": "Night Tenant / Obsessive Author",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<p><strong>Aliases:</strong> Roger Carun</p>\n<h2>Player Description</h2>\n<p>Science-fiction author and Wright’s neighbor.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Key day/night split witness; his word processor, calls, and editor are major clue vectors.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Roger Carun’s Apartment</li>\n<li>Macallistar Building</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>answering-machine message</li>\n<li>Nightsea</li>\n<li>word processor text</li>\n<li>Night Floors draft</li>\n<li>hairs at openings</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 89-91, 115-116</p>\n</section>",
+      "physicalDescription": "Science-fiction author and Wright’s neighbor."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Roger Peter Carun",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_roger_carun.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "z2EGonCdDGTtzhCT",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_roger_carun",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "night_tenant",
+        "infected",
+        "macallistar",
+        "king_in_yellow",
+        "night_floors",
+        "the_play",
+        "dual_nature"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 30 - Macallistar Tenants",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 89-91, 115-116",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

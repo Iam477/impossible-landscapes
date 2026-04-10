@@ -1,0 +1,41 @@
+{
+  "_id": "ZAIyn6W90iJeXbBe",
+  "name": "OP1 - Concept - Access to the Night Floors [GM]",
+  "pages": [
+    {
+      "_id": "C7iAdD4aUroBIFDC",
+      "name": "OP1 - Concept - Access to the Night Floors [GM]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>OP1 - Concept - Access to the Night Floors [GM]</h1>\n<h2>Player-Facing Text</h2>\n<p>Not finalized in approved scope. Approved player-facing block: none.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>How and when Agents can actually get in, what they perceive, threshold rules, and Corruption-facing reminders.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - Location - Macallistar Building [GM]</li>\n<li>OP1 - Location - Michelle Vanfitz’s Apartment [GM]</li>\n<li>OP1 - Location - Top-Floor Stair Landing / Roof Door [GM]</li>\n<li>OP1 - Location - The Night Floors [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/op1 type/concept audience/gm canon/canon</p>\n<h2>Source Pages</h2>\n<p>IL pp. 75, 91-95, 97-112</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "OP1 - The Night Floors / 70 - Reference / Rules",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 75, 91-95, 97-112",
+      "generatedFrom": "journals/op1/op1-concept-access-to-the-night-floors.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

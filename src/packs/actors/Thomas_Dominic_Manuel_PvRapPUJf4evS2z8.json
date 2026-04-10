@@ -1,0 +1,378 @@
+{
+  "_id": "PvRapPUJf4evS2z8",
+  "name": "Thomas Dominic Manuel",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_thomas_manuel.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 13,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 14,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 12,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "wp": {
+      "value": 14,
+      "min": 0,
+      "max": 14
+    },
+    "sanity": {
+      "value": 5,
+      "max": 99,
+      "currentBreakingPoint": 0,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 25,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 0,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 30,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 10,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 30,
+        "failure": false
+      },
+      "criminology": {
+        "value": 0,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 50,
+        "failure": false
+      },
+      "drive": {
+        "value": 20,
+        "failure": false
+      },
+      "firearms": {
+        "value": 20,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 30,
+        "failure": false
+      },
+      "forensics": {
+        "value": 0,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 10,
+        "failure": false
+      },
+      "humint": {
+        "value": 10,
+        "failure": false
+      },
+      "law": {
+        "value": 0,
+        "failure": false
+      },
+      "medicine": {
+        "value": 0,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 40,
+        "failure": false
+      },
+      "navigate": {
+        "value": 30,
+        "failure": false
+      },
+      "occult": {
+        "value": 30,
+        "failure": false
+      },
+      "persuade": {
+        "value": 60,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 40,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 10,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 60,
+        "failure": false
+      },
+      "sigint": {
+        "value": 0,
+        "failure": false
+      },
+      "stealth": {
+        "value": 40,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 50,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 6,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "art1": {
+        "name": "Art",
+        "subtype": "History",
+        "value": 60,
+        "failure": false,
+        "group": "art"
+      },
+      "art2": {
+        "name": "Art",
+        "subtype": "Painting",
+        "value": 60,
+        "failure": false,
+        "group": "art"
+      },
+      "art3": {
+        "name": "Art",
+        "subtype": "Photography",
+        "value": 30,
+        "failure": false,
+        "group": "art"
+      },
+      "art4": {
+        "name": "Art",
+        "subtype": "Sculpture",
+        "value": 35,
+        "failure": false,
+        "group": "art"
+      },
+      "craft1": {
+        "name": "Craft",
+        "subtype": "Electronics",
+        "value": 40,
+        "failure": false,
+        "group": "craft"
+      },
+      "foreignLanguage1": {
+        "name": "Foreign Language",
+        "subtype": "Spanish",
+        "value": 70,
+        "failure": false,
+        "group": "foreignLanguage"
+      }
+    },
+    "biography": {
+      "profession": "Night Tenant / Infected Artist",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Night Tenant / Infected Artist</p>\n<p><strong>Nature:</strong> unnatural</p>\n<p><strong>Location:</strong> loc_macallistar_building</p>\n<hr/>\n<h2>Player Description</h2>\n<p>Thomas Manuel is a young, thin Hispanic man with cropped black hair who pads around barefoot in paint-covered t-shirts and baggy jeans. He usually has a pair of headphones around his neck but never seems to be listening to anything. He has nothing but good things to say about Abigail Wright, calling her &#x27;Laura.&#x27; His apartment is strangely bare for an artist \u2014 no art on the walls, no books, no art materials visible.</p>\n<hr/>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>Key investigation notes: Manuel has a hidden compartment in a plastic plant base containing audiocassettes (ambient sounds of Macallistar at night, portions of the Play underlined in red ink), an incomplete copy of the Play, and the bronze medallion. The cassette recorder is connected to a wire that runs under the hall rug to a microphone near Wright&#x27;s door. By day Manuel genuinely has no idea why the microphone is there. The paintings in his basement studio (visible by night) include: a child-sized clown in yellow and blue on a stage dragging a white paper dragon (painting of the clown in Washington Square Park and the Night World of the Dorchester House \u2014 cross-part foreshadowing); a haunted image of a white-faced specter at the top of stairs during a conflagration on a strange aquamarine rug (the Samigina residence, Part 2 foreshadowing); a young man in a hospital johnny whose mirror-twin is deformed and muscular with a misshapen head (Ed Miler Wist and Mister Wilde, Part 2 foreshadowing). If Agents later encounter real-world counterparts of these paintings, they recognize them at a cost of 0/1D4 SAN from the unnatural. Foodstuffs in his refrigerator all have expiration dates from 5 months ago but are not rotten \u2014 removing them causes instant putrefaction (0/1 SAN unnatural, +1 Corruption). His &#x27;Passing Strange&#x27; note: moved into the Macallistar on 23 AUG 1992, the 97th anniversary of the first Paris performance of Le Roi en jaune. His childhood &#x27;imaginary friends&#x27; were a man in a suit he called &#x27;J.C.&#x27; (almost certainly Henri de Calvados Castaigne) and his pet dog &#x27;Abraham&#x27; (the Dog, Abraham) \u2014 he has been connected to the Night World since childhood. At night, if confronted about the tapes or his ghostly conversations, he explodes in rage. He can sometimes be found in the Night Floors playing ball with the Dog; this sound is heard throughout the building.</p>\n<h3>Sanity Effects</h3>\n<p><strong>Trigger:</strong> Studying Manuel&#x27;s blank canvas labeled &#x27;My Great Work&#x27; for one hour or more at night</p>\n<p><strong>SAN Loss:</strong> 1/1</p>\n<p>SAN roll required; failure causes 1 SAN loss from helplessness and +1 Corruption. Manifests as a feeling that the Macallistar is filled with people just out of sight.</p>\n<h3>Relationships</h3>\n<ul>\n<li><strong>Neighbor / Friend:</strong> npc_abigail_wright \u2014 Called her Laura. Had a microphone strung under the hall carpet to record her apartment. By night he knows she has &#x27;moved on.&#x27; He last saw her at the Smoking Lounge going-away party 28 MAY 1995.</li>\n<li><strong>Night Relationship:</strong> npc_henri_castaigne \u2014 Calls Castaigne &#x27;Mister Castaigne&#x27; and refers to him as the building&#x27;s &#x27;night manager.&#x27; Castaigne lets Manuel work in the basement at night.</li>\n<li><strong>Night World Associate:</strong> npc_encyclopedia_salesman \u2014 Manuel claims Wright left with this man, &#x27;a no-account guy who sells encyclopedias and lives on the sixth floor.&#x27;</li>\n</ul>\n</section>",
+      "physicalDescription": "Thomas Manuel is a young, thin Hispanic man with cropped black hair who pads around barefoot in paint-covered t-shirts and baggy jeans. He usually has a pair of headphones around his neck but never seems to be listening to anything. He has nothing but good things to say about Abigail Wright, calling her 'Laura.' His apartment is strangely bare for an artist \u2014 no art on the walls, no books, no art materials visible."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Thomas Dominic Manuel",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_thomas_manuel.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "Gv7yjpRMIkaeL4c4",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 50,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "V56uME3n87AHLZKo",
+      "name": "X-Acto knife",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "melee_weapons",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 40,
+          "armorPiercing": 3
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_thomas_manuel",
+      "nature": "unnatural",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "night_tenant",
+        "infected",
+        "macallistar",
+        "king_in_yellow",
+        "night_floors",
+        "dual_nature",
+        "san_risk"
+      ]
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1712700000000,
+    "modifiedTime": 1712700000000,
+    "lastModifiedBy": "ILModuleGenerator"
+  }
+}

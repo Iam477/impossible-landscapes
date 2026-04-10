@@ -1,0 +1,41 @@
+{
+  "_id": "0mN8jtojQkpyPgVt",
+  "name": "SHARED - Concept - The Yellow Sign [GM]",
+  "pages": [
+    {
+      "_id": "FitD3rNZHCmvWs2M",
+      "name": "SHARED - Concept - The Yellow Sign [GM]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>SHARED - Concept - The Yellow Sign [GM]</h1>\n<h2>Player-Facing Text</h2>\n<p>Not finalized in approved scope. Approved player-facing block: none.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>Campaign master symbol doc. Symbol summary; effects; recognition rules.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - Event - Operation ALICE [GM]</li>\n<li>OP1 - Handout - Abigail Wright Seal [Player]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/shared type/concept audience/gm canon/canon recurring</p>\n<h2>Source Pages</h2>\n<p>IL pp. 347-349</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "SHARED / 10 - Concepts",
+      "classification": "SHARED",
+      "sourcePages": "IL pp. 347-349",
+      "generatedFrom": "journals/shared/shared-concept-the-yellow-sign.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

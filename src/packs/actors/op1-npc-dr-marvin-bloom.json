@@ -1,0 +1,346 @@
+{
+  "_id": "zh80JzLZpVAcqgNd",
+  "name": "OP1 - NPC - Dr. Marvin Bloom [GM]",
+  "type": "npc",
+  "img": "modules/impossible-landscapes/assets/portraits/npc_agent_marcus.webp",
+  "system": {
+    "statistics": {
+      "str": {
+        "value": 9,
+        "distinguishing_feature": ""
+      },
+      "con": {
+        "value": 11,
+        "distinguishing_feature": ""
+      },
+      "dex": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "int": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "pow": {
+        "value": 12,
+        "distinguishing_feature": ""
+      },
+      "cha": {
+        "value": 13,
+        "distinguishing_feature": ""
+      }
+    },
+    "health": {
+      "value": 10,
+      "min": 0,
+      "max": 10
+    },
+    "wp": {
+      "value": 12,
+      "min": 0,
+      "max": 12
+    },
+    "sanity": {
+      "value": 57,
+      "max": 99,
+      "currentBreakingPoint": 45,
+      "adaptations": {
+        "violence": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        },
+        "helplessness": {
+          "incident1": false,
+          "incident2": false,
+          "incident3": false,
+          "adapted": false
+        }
+      }
+    },
+    "skills": {
+      "accounting": {
+        "value": 10,
+        "failure": false
+      },
+      "alertness": {
+        "value": 51,
+        "failure": false
+      },
+      "anthropology": {
+        "value": 5,
+        "failure": false
+      },
+      "archeology": {
+        "value": 0,
+        "failure": false
+      },
+      "artillery": {
+        "value": 0,
+        "failure": false
+      },
+      "athletics": {
+        "value": 35,
+        "failure": false
+      },
+      "bureaucracy": {
+        "value": 45,
+        "failure": false
+      },
+      "computer_science": {
+        "value": 25,
+        "failure": false
+      },
+      "criminology": {
+        "value": 49,
+        "failure": false
+      },
+      "demolitions": {
+        "value": 0,
+        "failure": false
+      },
+      "disguise": {
+        "value": 10,
+        "failure": false
+      },
+      "dodge": {
+        "value": 35,
+        "failure": false
+      },
+      "drive": {
+        "value": 55,
+        "failure": false
+      },
+      "firearms": {
+        "value": 53,
+        "failure": false
+      },
+      "first_aid": {
+        "value": 20,
+        "failure": false
+      },
+      "forensics": {
+        "value": 44,
+        "failure": false
+      },
+      "heavy_machinery": {
+        "value": 10,
+        "failure": false
+      },
+      "heavy_weapons": {
+        "value": 0,
+        "failure": false
+      },
+      "history": {
+        "value": 20,
+        "failure": false
+      },
+      "humint": {
+        "value": 60,
+        "failure": false
+      },
+      "law": {
+        "value": 32,
+        "failure": false
+      },
+      "medicine": {
+        "value": 15,
+        "failure": false
+      },
+      "melee_weapons": {
+        "value": 30,
+        "failure": false
+      },
+      "navigate": {
+        "value": 10,
+        "failure": false
+      },
+      "occult": {
+        "value": 15,
+        "failure": false
+      },
+      "persuade": {
+        "value": 50,
+        "failure": false
+      },
+      "pharmacy": {
+        "value": 58,
+        "failure": false
+      },
+      "psychotherapy": {
+        "value": 50,
+        "failure": false
+      },
+      "ride": {
+        "value": 10,
+        "failure": false
+      },
+      "search": {
+        "value": 55,
+        "failure": false
+      },
+      "sigint": {
+        "value": 10,
+        "failure": false
+      },
+      "stealth": {
+        "value": 15,
+        "failure": false
+      },
+      "surgery": {
+        "value": 0,
+        "failure": false
+      },
+      "survival": {
+        "value": 10,
+        "failure": false
+      },
+      "swim": {
+        "value": 20,
+        "failure": false
+      },
+      "unarmed_combat": {
+        "value": 48,
+        "failure": false
+      },
+      "unnatural": {
+        "value": 4,
+        "failure": false
+      }
+    },
+    "typedSkills": {
+      "science1": {
+        "name": "Science",
+        "subtype": "Biology",
+        "value": 40,
+        "failure": false,
+        "group": "science"
+      }
+    },
+    "biography": {
+      "profession": "Delta Green Cell M Leader / Briefing NPC / Potential Replacement Agent",
+      "employer": "",
+      "nationality": "",
+      "sex": "",
+      "age": "",
+      "education": "",
+      "personalDetails": "<p><strong>Role:</strong> Both</p>\n<p><strong>Aliases:</strong> Agent Marcus</p>\n<h2>Player Description</h2>\n<p>Cautious FBI psychologist turned Delta Green case officer.</p>\n<section class=\"secret\">\n<h2>Handler Notes</h2>\n<p>He is the DG bridge into the case, but not a deep Night Floors mystery figure himself.</p>\n<h3>Linked Locations</h3>\n<ul>\n<li>Operation frame</li>\n<li>Macallistar Building</li>\n</ul>\n<h3>Linked Clues</h3>\n<ul>\n<li>Operation ALICE briefing</li>\n<li>DG insertion into Wright case</li>\n</ul>\n<p><strong>Recurring Status:</strong> OP1</p>\n<p><strong>Source Pages:</strong> IL pp. 67-69, 114</p>\n</section>",
+      "physicalDescription": "Cautious FBI psychologist turned Delta Green case officer."
+    },
+    "physical": {
+      "description": "",
+      "wounds": ""
+    }
+  },
+  "prototypeToken": {
+    "name": "Dr. Marvin Bloom",
+    "displayName": 20,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/impossible-landscapes/assets/tokens/npc_agent_marcus.webp",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "health"
+    },
+    "bar2": {
+      "attribute": "wp"
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1
+  },
+  "items": [
+    {
+      "_id": "WM2pHzinXlkWnzam",
+      "name": "Glock 22 pistol",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/pistol.svg",
+      "system": {
+        "skill": "firearms",
+        "damage": "1D10",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "15m",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 53,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    },
+    {
+      "_id": "bNxvro1mDq2e87hM",
+      "name": "Unarmed",
+      "type": "weapon",
+      "img": "systems/deltagreen/assets/icons/melee.svg",
+      "system": {
+        "skill": "unarmed_combat",
+        "damage": "1D4-1",
+        "lethality": 0,
+        "isLethal": false,
+        "range": "melee",
+        "ammo": "",
+        "equipped": true
+      },
+      "effects": [],
+      "flags": {
+        "impossible-landscapes": {
+          "bookSkillPercent": 48,
+          "armorPiercing": 0
+        }
+      },
+      "sort": 0
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "sourceNpcId": "npc_agent_marcus",
+      "nature": "mundane",
+      "partsAppearing": [
+        "Part 1"
+      ],
+      "tags": [
+        "delta_green",
+        "handler_npc",
+        "replacement_character",
+        "paranoid",
+        "project_catalyst",
+        "cell_m"
+      ],
+      "folderPath": "OP1 - The Night Floors / 30 - People / Groups / 10 - Delta Green & Law",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 67-69, 114",
+      "generatedFromApprovedBundle": true
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}

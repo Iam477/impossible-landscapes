@@ -1,0 +1,41 @@
+{
+  "_id": "mwRUwWbzcTcdua8o",
+  "name": "OP1 - Concept - Double Lives of the Tenants [GM]",
+  "pages": [
+    {
+      "_id": "G8AA3KRbA5SJ3QX8",
+      "name": "OP1 - Concept - Double Lives of the Tenants [GM]",
+      "type": "text",
+      "text": {
+        "format": 1,
+        "content": "<h1>OP1 - Concept - Double Lives of the Tenants [GM]</h1>\n<h2>Player-Facing Text</h2>\n<p>Not finalized in approved scope. Approved player-facing block: none.</p>\n<section class=\"secret\">\n<h2>GM Notes</h2>\n<p>Core operating principle for all tenant interactions. Summary of how day/night split works, which tenants are affected, and practical play guidance.</p>\n</section>\n<h2>Links To Create</h2>\n<ul>\n<li>OP1 - NPC - Thomas Manuel [GM]</li>\n<li>OP1 - NPC - Roger Carun [GM]</li>\n<li>OP1 - NPC - Michelle Vanfitz [GM]</li>\n<li>OP1 - NPC - Louis Post [GM]</li>\n<li>OP1 - Location - The Night Floors [GM]</li>\n</ul>\n<h2>Tags</h2>\n<p>scope/op1 type/concept audience/gm canon/canon</p>\n<h2>Source Pages</h2>\n<p>IL pp. 67, 85-97</p>"
+      },
+      "sort": 1000,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "impossible-landscapes": {
+      "folderPath": "OP1 - The Night Floors / 70 - Reference / Rules",
+      "classification": "OP1",
+      "sourcePages": "IL pp. 67, 85-97",
+      "generatedFrom": "journals/op1/op1-concept-double-lives-of-the-tenants.md"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "deltagreen",
+    "systemVersion": "1.6.4",
+    "createdTime": 1775829488965,
+    "modifiedTime": 1775829488965,
+    "lastModifiedBy": "PartOneSourceBundleGenerator"
+  }
+}
